@@ -1,7 +1,6 @@
-## Hi there 👋
-- I'm a software engineering student!
-- Currently working on two projects: one for a private company and the other one related with a paper I'll publish in the CONISOFT!
-- "Si puedes imaginarlo puedes programarlo" - Alejandro Taboada
+## Hi there 👋. Welcome to my GitHub profile.
+- I'm a software engineering student.
+- I like web development and learning new things.
 
 # Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
